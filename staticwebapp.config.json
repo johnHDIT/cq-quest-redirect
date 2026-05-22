@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://conquestproperty.sharepoint.com/",
+      "statusCode": 301
+    }
+  ]
+}
+``
